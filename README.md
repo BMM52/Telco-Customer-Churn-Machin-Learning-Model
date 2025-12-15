@@ -53,7 +53,7 @@ allowing targeted interventions like personalized offers or service improvements
 - **Predicted vs. Actual Churn Pie Charts** – side-by-side comparison.  
 - **Top 10 High-Risk Customers Table** – with churn probability.
 
-*(Include screenshots from your `images/` folder if desired)*
+
 
 ---
 
